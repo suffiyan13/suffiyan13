@@ -40,5 +40,5 @@ fields_of_interests:
  [YouTube]: https://www.youtube.com/@shaikSuffiyan-13
  [linkedin]: https://www.linkedin.com/in/ssuffiyan/
  [github]: https://github.com/suffiyan13
- [Hashnode]: https://https://hashnode.com/@ShaikSuffiyan
+ [Hashnode]: https://suffiyan.hashnode.dev/
 
