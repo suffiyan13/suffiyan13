@@ -6,7 +6,8 @@
  ```yaml
 name: Shaik Suffiyan
 located_in: Bangalore,India
-current_job: Devops and Cloud Intern @RIDE EVEE
+email:suffiyanshaik99@gmail.com
+current_job: DevOps and Cloud Intern @RIDE EVEE
 
 
 fields_of_interests:
@@ -16,6 +17,7 @@ fields_of_interests:
     "AWS",
     "DevOps",
   ]
+
   
 ```
 
@@ -29,7 +31,7 @@ fields_of_interests:
 [<img src ="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
 [<img src ="https://img.shields.io/badge/youtube-%23333.svg?&style=for-the-badge&logo=youtube&logoColor=Red"/>][Youtube]
 [<img src ="https://img.shields.io/badge/hashnode-%23333.svg?&style=for-the-badge&logo=hashnode&logoColor=white"/>][Hashnode]
-[<img src ="https://img.shields.io/badge/email-%23333.svg?&style=for-the-badge&logo=email&logoColor=white"/>][Email]
+
 <br></br> 
 
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
@@ -42,5 +44,5 @@ fields_of_interests:
  [linkedin]: https://www.linkedin.com/in/shaiksuffiyan
  [github]: https://github.com/suffiyan13
  [Hashnode]: https://suffiyan.hashnode.dev/
- [Email]: suffiyanshaik99@gmail.com
+
 
