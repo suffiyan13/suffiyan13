@@ -27,12 +27,12 @@ fields_of_interests:
 <!-- ![My socials](https://skillicons.dev/icons?i=linkedin,YouTube,github) -->
 [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src ="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
-[<img src ="https://img.shields.io/badge/youtube-%23333.svg?&style=for-the-badge&logo=github&logoColor=white"/>][Youtube]
-[<img src ="https://img.shields.io/badge/hashnode-%23333.svg?&style=for-the-badge&logo=github&logoColor=white"/>][Hashnode]
+[<img src ="https://img.shields.io/badge/youtube-%23333.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>][Youtube]
+[<img src ="https://img.shields.io/badge/hashnode-%23333.svg?&style=for-the-badge&logo=hashnode&logoColor=white"/>][Hashnode]
 <br></br> 
 
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
-[![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,ansible,prometheus,grafana&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,ansible,prometheus,Terraform,grafana&perline=6)](https://skillicons.dev)
  
 
 
