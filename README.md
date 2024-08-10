@@ -29,16 +29,18 @@ fields_of_interests:
 [<img src ="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
 [<img src ="https://img.shields.io/badge/youtube-%23333.svg?&style=for-the-badge&logo=youtube&logoColor=Red"/>][Youtube]
 [<img src ="https://img.shields.io/badge/hashnode-%23333.svg?&style=for-the-badge&logo=hashnode&logoColor=white"/>][Hashnode]
+[<img src ="https://img.shields.io/badge/email-%23333.svg?&style=for-the-badge&logo=email&logoColor=white"/>][Email]
 <br></br> 
 
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
 [![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,ansible,prometheus,grafana&perline=6)](https://skillicons.dev)
- 
+
 
 
 
  [YouTube]: https://www.youtube.com/@shaikSuffiyan-13
- [linkedin]: https://www.linkedin.com/in/ssuffiyan/
+ [linkedin]: https://www.linkedin.com/in/shaiksuffiyan
  [github]: https://github.com/suffiyan13
  [Hashnode]: https://suffiyan.hashnode.dev/
+ [Email]: suffiyanshaik99@gmail.com
 
