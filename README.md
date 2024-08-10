@@ -6,7 +6,7 @@
  ```yaml
 name: Shaik Suffiyan
 located_in: Bangalore,India
-email:suffiyanshaik99@gmail.com
+email: suffiyanshaik99@gmail.com
 current_job: DevOps and Cloud Intern @RIDE EVEE
 
 
