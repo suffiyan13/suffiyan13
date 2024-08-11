@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shaiksuffiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaiksuffiyan" height="30" width="40" /></a>
 <a href="https://hashnode.com/@suffiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@suffiyan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shaiksuffiyan-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shaiksuffiyan-13" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shaikSuffiyan-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shaiksuffiyan-13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
